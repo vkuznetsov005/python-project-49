@@ -1,1 +1,1 @@
-[<a href="https://codeclimate.com/github/vkuznetsov005/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/cb5a22c4b01e88873a58/maintainability" /></a>](https://sonarcloud.io/api/project_badges/measure?project=vkuznetsov005_python-project-49&metric=alert_status)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vkuznetsov005_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vkuznetsov005_python-project-49)
