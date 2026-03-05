@@ -26,11 +26,8 @@ def generate_round():
             question: string with the number to check
             correct_answer: 'yes' if number is even, 'no' otherwise
     """
-    number = random.randint(1, 100)
-    
+    number = random.randint(1, 100) 
     question = str(number)
 
     correct_answer = 'yes' if is_even(number) else 'no'
-    
     return question, correct_answer
-

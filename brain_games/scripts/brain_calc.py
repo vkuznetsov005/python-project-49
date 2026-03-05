@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
-"""Script to run the calculator game."""
 
 from brain_games.engine import run_game
 from brain_games.games import calc
 
 
 def main():
-    """Run the calculator game."""
     run_game(calc)
 
 
