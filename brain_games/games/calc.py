@@ -1,5 +1,3 @@
-"""Logic for the calculator game."""
-
 import random
 import operator
 
@@ -13,19 +11,10 @@ OPERATIONS = {
 
 
 def get_random_number():
-    """Generate random number between 1 and 100."""
     return random.randint(1, 100)
 
 
 def generate_round():
-    """
-    Generate a round of the calculator game.
-    
-    Returns:
-        tuple: (question, correct_answer)
-            question: string with math expression (e.g., "35 + 16")
-            correct_answer: string with result of the expression
-    """
     num1 = get_random_number()
     num2 = get_random_number()
     operation = random.choice(list(OPERATIONS.keys()))

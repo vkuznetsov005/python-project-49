@@ -16,7 +16,7 @@ def run_game(game_module):
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!') 
     print(game_module.GAME_RULE)
-    rounds_to_win = 3  # noqa: E113
+    rounds_to_win = 3
     
     for round_num in range(rounds_to_win):
         question, correct_answer = game_module.generate_round()
