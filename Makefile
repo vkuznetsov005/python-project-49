@@ -14,7 +14,7 @@ package-uninstall:
 	uv tool uninstall brain-games
 
 lint:
-	uv run ruff check brain_games
+	ruff check --config=./ruff.toml brain_games
 
 clean:
 	rm -rf dist/
