@@ -45,7 +45,8 @@ def generate_round():
     
     Returns:
         tuple: (question, correct_answer)
-            question: string with progression (e.g., "5 7 9 11 13 .. 17 19 21 23")
+            question: string with progression
+                (e.g., "5 7 9 11 13 .. 17 19 21 23")
             correct_answer: string with missing number
     """
     progression, _, hidden_number = generate_progression()
