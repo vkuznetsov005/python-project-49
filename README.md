@@ -31,7 +31,7 @@ In each game, you need to provide correct answers to three questions in a row.
 
 ### Installation from Repository
 
-```bash
+
 # Clone the repository
 git clone https://github.com/vkuznetsov005/python-project-49.git
 cd python-project-49
@@ -42,4 +42,8 @@ make build
 make package-install
 
 
-## https://asciinema.org/a/olHEGSElJ9dQcP5m
+
+
+### Demonstrations
+
+https://asciinema.org/a/olHEGSElJ9dQcP5m
