@@ -29,7 +29,7 @@ In each game, you need to provide correct answers to three questions in a row.
 - Python 3.8 or higher
 - [UV](https://docs.astral.sh/uv/#installation) - package manager
 
-# Installation from Repository
+## Installation from Repository
 
 
 ### Clone the repository
