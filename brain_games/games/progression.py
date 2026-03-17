@@ -20,7 +20,7 @@ def generate_progression():
         current_element = start + i * step
         progression.append(str(current_element))
     
-    hidden_index = random.randint(0, length - 1)
+    hidden_index = random.randint(0, length - 1)  # NOSONAR
     hidden_number = progression[hidden_index]
     
     progression[hidden_index] = '..'
