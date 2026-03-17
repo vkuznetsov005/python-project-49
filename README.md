@@ -50,3 +50,12 @@ make package-install
 ## Demonstrations
 
 https://asciinema.org/a/olHEGSElJ9dQcP5m
+
+https://asciinema.org/a/djeD0LJsM4hNMA70
+
+https://asciinema.org/a/eh9tH2dLLQeF4vu1
+
+https://asciinema.org/a/8uNnk4BdZ8xnMkIb
+
+https://asciinema.org/a/BbvPZ9DDDJKnArjx
+
