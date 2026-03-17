@@ -11,9 +11,9 @@ MAX_STEP = 10
 
 
 def generate_progression():
-    length = random.randint(MIN_LENGTH, MAX_LENGTH)
-    start = random.randint(MIN_START, MAX_START)
-    step = random.randint(MIN_STEP, MAX_STEP)
+    length = random.randint(MIN_LENGTH, MAX_LENGTH)  # NOSONAR
+    start = random.randint(MIN_START, MAX_START)  # NOSONAR
+    step = random.randint(MIN_STEP, MAX_STEP)  # NOSONAR
     
     progression = []
     for i in range(length):

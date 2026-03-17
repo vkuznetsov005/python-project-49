@@ -9,7 +9,7 @@ def is_even(number):
 
 
 def generate_round():
-    number = random.randint(1, 100) 
+    number = random.randint(1, 100)  # NOSONAR
     question = str(number)
 
     correct_answer = 'yes' if is_even(number) else 'no'

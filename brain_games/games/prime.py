@@ -16,7 +16,7 @@ def is_prime(number):
 
 
 def get_random_number():
-    return random.randint(MIN_NUMBER, MAX_NUMBER)
+    return random.randint(MIN_NUMBER, MAX_NUMBER)  # NOSONAR
 
 
 def generate_round():

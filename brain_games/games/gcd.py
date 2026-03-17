@@ -5,7 +5,7 @@ GAME_RULE = 'Find the greatest common divisor of given numbers.'
 
 
 def get_random_number():
-    return random.randint(1, 100)
+    return random.randint(1, 100)  # NOSONAR
 
 
 def find_gcd(num1, num2):
