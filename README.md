@@ -34,11 +34,14 @@ In each game, you need to provide correct answers to three questions in a row.
 
 # Clone the repository
 git clone https://github.com/vkuznetsov005/python-project-49.git
+
 cd python-project-49
 
 # Install the package
 make install
+
 make build
+
 make package-install
 
 
