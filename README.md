@@ -1,5 +1,5 @@
-Hexlet tests and linter status:
-Hexlet Code
+### Hexlet tests and linter status:
+
 __________________________________________________________________________________________________________________________________________________________________________
 
 
@@ -10,14 +10,15 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________
 
 
-Description
+## Description
+
 Hexlet Code is a collection of 5 math-related games designed to challenge and improve your arithmetic skills. The games include:
 
-Checking if a number is prime
-Inserting a number into an arithmetic progression
-Providing the result of a calculation (multiplication, addition, subtraction)
-Answering if a number is even
-Finding the greatest common divisor of two numbers
+- Checking if a number is prime
+- Inserting a number into an arithmetic progression
+- Providing the result of a calculation (multiplication, addition, subtraction)
+- Answering if a number is even
+- Finding the greatest common divisor of two numbers
 
 
 https://asciinema.org/a/olHEGSElJ9dQcP5m
