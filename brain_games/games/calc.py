@@ -15,9 +15,9 @@ def get_random_number():
 
 
 def generate_round():
-    num1 = get_random_number()
-    num2 = get_random_number()
-    operation = random.choice(list(OPERATIONS.keys()))
+    num1 = get_random_number()  # NOSONAR
+    num2 = get_random_number()  # NOSONAR
+    operation = random.choice(list(OPERATIONS.keys()))  # NOSONAR
     question = f"{num1} {operation} {num2}"
     result = OPERATIONS[operation](num1, num2)
     correct_answer = str(result)
