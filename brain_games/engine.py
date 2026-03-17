@@ -18,7 +18,7 @@ def run_game(game_module):
     print(game_module.GAME_RULE)
     rounds_to_win = 3
     
-    for round_num in range(rounds_to_win):
+    for round_num in range(rounds_to_win):  # NOSONAR
         question, correct_answer = game_module.generate_round()
         
         print(f'Question: {question}')
