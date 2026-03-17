@@ -13,6 +13,20 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+brain_games/scripts/__pycache__
+brain_games/__pycache__
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
 
 # Distribution
 dist/
