@@ -23,21 +23,21 @@ In each game, you need to provide correct answers to three questions in a row.
 - **brain-progression** - "Arithmetic Progression" game
 - **brain-prime** - "Prime Number" game
 
-## Installation and Usage
+# Installation and Usage
 
-### Requirements
+## Requirements
 - Python 3.8 or higher
 - [UV](https://docs.astral.sh/uv/#installation) - package manager
 
-### Installation from Repository
+## Installation from Repository
 
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/vkuznetsov005/python-project-49.git
 
 cd python-project-49
 
-# Install the package
+### Install the package
 make install
 
 make build
@@ -47,6 +47,6 @@ make package-install
 
 
 
-### Demonstrations
+## Demonstrations
 
 https://asciinema.org/a/olHEGSElJ9dQcP5m
