@@ -11,8 +11,7 @@ OPERATIONS = {
 
 
 def get_random_number():
-    #NOSONAR
-    return random.randint(1, 100)
+    return random.randint(1, 100) #NOSONAR
 
 
 def generate_round():
